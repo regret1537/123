@@ -1,11 +1,11 @@
 [mail]
 host : smtp.exmail.qq.com
 port : 25
-mails : your_mail
+mails : 1785397321@qq.com
 from : GSIL
-password : your_password
-to : feei@feei.cn
+password : Aa121124
+to : 1785397321@qq.com
 
 [github]
-clone: false
-tokens : your_github_token
+clone: ture
+tokens : 19c3adfe00c7c8d7c3800bc72f791574fac8c631
