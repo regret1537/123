@@ -1,6 +1,6 @@
 # GSIL(GitHub Sensitive Information Leakage)
 
-[中文文档](https://github.com/FeeiCN/GSIL/blob/master/README-zh.md)
+[中文文档](https://github.com/regret1537/GSIL/blob/master/README-zh.md)
 
 > Monitor Github sensitive information leaks in near real time and send alert notifications.
 
@@ -9,7 +9,7 @@
 > Python3(Python2 is not tested)
 
 ```bash
-$ git clone https://github.com/FeeiCN/gsil.git
+$ git clone https://github.com/regret1537/gsil.git
 $ cd gsil/
 $ pip install -r requirements.txt
 ```
